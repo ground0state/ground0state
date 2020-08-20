@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-# My Qiita posts
+
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ground0state/posts.svg)](http://qiita.com/ground0state)
-# My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ground0state/contributions.svg)](http://qiita.com/ground0state)
-# My Qiita followers
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ground0state/followers.svg)](http://qiita.com/ground0state)
                 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ground0state&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ground0state)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
