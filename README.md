@@ -4,7 +4,7 @@
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ground0state/followers.svg)](http://qiita.com/ground0state)
 
 ### Summary
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ground0state)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ground0state&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
